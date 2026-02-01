@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <strong>🌐 Live at: <a href="https://[your-site].minimaldocs.com">[your-site].minimaldocs.com</a></strong>
+</p>
+
+<p align="center">
   <a href="https://minimaldocs.com/docs"><strong>Documentation</strong></a> ·
   <a href="mailto:hello@minimaldocs.com"><strong>Support</strong></a>
 </p>

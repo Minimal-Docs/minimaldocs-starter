@@ -1,0 +1,7 @@
+<svg width="160" height="24" viewBox="0 0 160 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="3" height="16" rx="1.5" fill="#3B82F6"/>
+  <rect x="5" y="7" width="3" height="10" rx="1.5" fill="#10B981"/>
+  <rect x="10" y="5" width="3" height="14" rx="1.5" fill="#F59E0B"/>
+  <rect x="15" y="8" width="3" height="8" rx="1.5" fill="#EF4444"/>
+  <text x="24" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#09090B">MinimalDocs</text>
+</svg>
